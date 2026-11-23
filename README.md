@@ -35,6 +35,7 @@ bytes.
 ## Controls
 
 - **Arrow keys / WASD** to steer
+- **P / Esc** to pause and resume
 - **Space / Enter / click** to restart after game over
 
 ## Rules
